@@ -1,0 +1,15 @@
+Please implement the producer-consumer solution using semaphores and a finite
+buffer (cf. slides 27-30 of the presentation about advanced synchronization).
+
+You can use arbitrary elements.
+Both threads (the producer and the consumer) should print the info about
+produced/consumed elements to the standard output.
+Use random processing times (simulated by sleeping - Thread.Sleep() in C#, or
+time.sleep() in Python).
+
+Admissible languages: C# and Python.
+
+Please work in teams of c.a. three persons.
+
+The results should be **sent via email** to my Vistula account, with the subject ``DCS project 1''.
+
